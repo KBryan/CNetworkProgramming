@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		789901B21C8084330090725F /* NetworkServer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NetworkServer; sourceTree = BUILT_PRODUCTS_DIR; };
 		789901B51C8084330090725F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		789901C21C8096130090725F /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = ../index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		789901B41C8084330090725F /* NetworkServer */ = {
 			isa = PBXGroup;
 			children = (
+				789901C21C8096130090725F /* index.html */,
 				789901B51C8084330090725F /* main.c */,
 			);
 			path = NetworkServer;
